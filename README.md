@@ -1,2 +1,8 @@
 # docker-arch-pi
-Configuration to make a docker image with Arch Linux for a Raspberry Pi Zero
+Downloads the latest Arch Linux Raspberry Pi tarball and uses it to create a base Arch Linux docker image.
+
+All my other Arch Linux based projects are based off this docker image.
+
+## Usage
+
+    ./build.sh
